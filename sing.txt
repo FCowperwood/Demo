@@ -1,14 +1,4 @@
 java java java
-java java java 2x
+java java java 2x master
 
-java java java
-java java java 4x
-
-
-java java java
-java java java 4x
-
-
-java java java
-java java java 4x master
 
