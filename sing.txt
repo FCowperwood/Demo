@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 I threw a wish in the well
 Don't ask me I'll never tell
 I looked to you as it fell
@@ -8,7 +7,7 @@ I'd trade my soul for a wish
 Pennies and dimes for a kiss
 I wasn't looking for this
 But now you're in my way
-=======
+
 Hey, I just met you and this is crazy
 But here's my number, so call me maybe
 It's hard to look right at you baby
@@ -18,4 +17,4 @@ Hey I just met you and this is crazy
 But here's my number, so call me maybe
 And all the other boys try to chase me
 But here's my number, so call me maybe
->>>>>>> feature
+
